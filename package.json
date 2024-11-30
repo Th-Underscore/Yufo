@@ -1,0 +1,18 @@
+{
+  "name": "yufo",
+  "version": "0.1.0",
+  "description": "A dynamic and configurable Discord.js role leveling bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "compromise": "^14.14.2",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "long": "^5.2.3",
+    "mathjs": "^14.0.0",
+    "pos": "^0.4.2"
+  }
+}
